@@ -1,1 +1,1 @@
-# Algatheem-Matlab-code-GADF-paper-2023
+# Matlab-code-GAFD-paper-2023
